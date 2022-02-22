@@ -1,4 +1,4 @@
-<a href="https://authenticateme.cf"><img src="https://raw.githubusercontent.com/ImTheGh0st/ImTheGh0st/main/media/banner.png" alt=""></a>
+<a href="https://authenticateme.cf"><img src="https://raw.githubusercontent.com/ImTheGh0st/ImTheGh0st/main/media/BANNER.png" alt=""></a>
 <hr>
 <p align="center" dir="auto">
     <a href="https://authenticateme.cf" target="_blank"><img src="https://img.shields.io/badge/AuthenticateMe-100000?style=for-the-badge&logo=&Color=white" style="max-width: 100%;"></a>
